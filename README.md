@@ -5,7 +5,8 @@
 ## Overview ##
   
   We were given a large list of ride fare data throughout 3 different areas "Urban, Suburban and Rrual". Urban areas dominate the profits, which is no surprise, more population would equal more rides and more money. The Rural areas are lacking in the profits, it all boils down to the population, more people have their own personal vahicle making breaking into the market a bit more difficult. Suburbia lies in the middle, this is an area I believe we can make some gains in, I'll get to my ideas in the conclusion. Another thing we noticed in the data is there's an abundance of drivers in urban areas, this can create a disparity between our drivers and drive the cost down, pun intended, once again I may have a solution for this as well.
-  https://github.com/DomKnowlage/PyBer_Challenge/blob/main/PyBer_Fare_Summary.png
+
+https://github.com/DomKnowlage/PyBer_Challenge/blob/main/PyBer_Fare_Summary.png
     
     
 ## Conclusion ##
