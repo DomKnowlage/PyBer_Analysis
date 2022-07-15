@@ -1,6 +1,6 @@
 # PyBer_Challenge
     
-    My team has been commissioned by the great people over at PyBer ride share to organzie and analyize ride share data. Our goal is to help the PyBer team discover areas where they are losing their customer base and determine wether or not there are some solutions that can increase customer outreach and overall satisfaction for drivers and clients alike.
+   My team has been commissioned by the great people over at PyBer ride share to organzie and analyize ride share data. Our goal is to help the PyBer team discover areas where they are losing their customer base and determine wether or not there are some solutions that can increase customer outreach and overall satisfaction for drivers and clients alike.
 
 ## Overview ##
   
